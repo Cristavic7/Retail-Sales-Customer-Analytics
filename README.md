@@ -90,10 +90,18 @@ Online Retail II Dataset (UCI Machine Learning Repository)
 
 ---
 
+##  Download Power BI Report
+
+The complete Power BI (.pbix) file can be downloaded here:
+
+🔗 **[Download Retail Sales Customer Analytics Dashboard](https://drive.google.com/file/d/1g8MyA0140VJWl-TAOiUuLs9BDP0qvCK-/view?usp=sharing)**
+
+---
+
 ##  Author
 
 **Vignesh S**
 
-LinkedIn: https://linkedin.com/in/vignesh-s
+LinkedIn: https://www.linkedin.com/in/vignesh-s-5338881b1/
 
 GitHub: https://github.com/Cristavic7
